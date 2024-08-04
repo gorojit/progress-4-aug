@@ -146,3 +146,9 @@ font-family: "DM Serif Display", serif;
     justify-content: space-around;
     text-align: center;
 }
+
+hr{
+    width:95%;
+    margin: auto;
+
+}
